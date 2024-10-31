@@ -52,5 +52,5 @@ npm run dev
 ### PLEASE create an `.env` file on the todo-frontend and insert the following code
 
 ```sh
-VITE_API_URL='http://127.0.0.1:8000'
+VITE_API_URL='http://api.todo-backend.test:8000/api'
 ```
